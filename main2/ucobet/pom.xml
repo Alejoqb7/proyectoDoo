@@ -37,7 +37,7 @@
         </dependency>
 
         <dependency>
-            <groupId>co.edu.uco.crosscutting</groupId>
+            <groupId>co.edu.uco.crosscutting.exceptions</groupId>
             <artifactId>crosscutting</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
